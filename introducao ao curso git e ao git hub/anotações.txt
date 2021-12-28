@@ -1,0 +1,3 @@
+Link para dowload do git https://git-scm.com/
+
+O git bash e um Terminal estendido para ultilizar o uso do git
